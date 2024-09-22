@@ -13,48 +13,52 @@ body {
     left: 20px;
     justify-content: space-around;
     
+    
 }
 .container1{
     display: flex;
     position: absolute;
     width: 25vw;
     height: 15vh;
-    border: 4px solid rgb(220, 220, 153);
+    border: 7px solid rgb(204, 204, 78);
     top: 40px;
     background-color:blanchedalmond;
     top: 33pt;
     justify-content: center;
     align-items: center;
+    border-radius: 20px;
 
 }
 
 .container2 {
     display: flex;
     position: absolute;
-    border: 4px solid rgb(220, 220, 153);
+    border: 7px solid rgb(208, 208, 49);
     background-color:blanchedalmond;
     width: 35vw;
     height: 25vh;
     top: 80pt;
     justify-content: center;
     align-items: center;
+    border-radius: 20px;
 }
 .container3{
     display: flex;
     position: absolute;
-    border: 4px solid rgb(220, 220, 153);
+    border: 7px solid rgb(230, 230, 88);
     background-color:blanchedalmond;
     width: 45vw;
     height: 35vh;
     top: 150pt;
     justify-content: center;
     align-items: center;
+    border-radius: 20px;
 
 }
 .container4 {
     display: flex;
     position: fixed;
-    border: 4px solid rgb(220, 220, 153);
+    border: 10px solid rgb(192, 44, 158);
     width: 50vw;
     height: auto;
     top: 80vh;
@@ -62,6 +66,7 @@ body {
     animation: fa-sta 4s linear infinite;
     animation-direction: reverse;
     justify-content: center;
+    border-radius: 2em;
 }
 
 h1 {
@@ -88,11 +93,6 @@ h2 {
 .fa-star:hover {
     color: rgb(233, 233, 14);
 }
-
-@keyframes fa-star{
-    from {opacity: 0.2;}
-    to {opacity: ;}
-    }
 
 @keyframes h2 {
     from {color:rgb(212, 151, 76); transform: scale(1) rotate(0deg);}
