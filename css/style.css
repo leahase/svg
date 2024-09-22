@@ -77,7 +77,7 @@ h1 {
 h2 {
     font-size: 1.3em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:rgb(212, 151, 76);
+    color:rgb(6, 100, 48);
     animation: h2 4s ease-in-out infinite;
     text-align: center;
 
@@ -95,6 +95,6 @@ h2 {
 }
 
 @keyframes h2 {
-    from {color:rgb(212, 151, 76); transform: scale(1) rotate(0deg);}
+    from {color:rgb(6, 100, 48); transform: scale(1) rotate(0deg);}
     to {color:rgb(180, 14, 147); transform: scale(2.1) rotate(10deg)}
 }
