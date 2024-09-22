@@ -22,7 +22,7 @@ body {
     height: 15vh;
     border: 7px solid rgb(204, 204, 78);
     top: 40px;
-    background-color:blanchedalmond;
+    background:linear-gradient(200deg, rgb(204, 48, 48), #d9e1a3);
     top: 33pt;
     justify-content: center;
     align-items: center;
@@ -34,7 +34,7 @@ body {
     display: flex;
     position: absolute;
     border: 7px solid rgb(208, 208, 49);
-    background-color:blanchedalmond;
+    background:linear-gradient(200deg, rgb(204, 48, 48), #d9e1a3);
     width: 35vw;
     height: 25vh;
     top: 80pt;
@@ -46,7 +46,7 @@ body {
     display: flex;
     position: absolute;
     border: 7px solid rgb(230, 230, 88);
-    background-color:blanchedalmond;
+    background:linear-gradient(200deg, rgb(204, 48, 48), #d9e1a3);
     width: 45vw;
     height: 35vh;
     top: 150pt;
